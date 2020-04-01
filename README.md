@@ -11,7 +11,7 @@ My Solution
 
 My main misktakes
 - Overfit to the leaderboard
-- Not having a proper CV stratergy
+- Bad CV stratergy
 
 ```
 Private Leaderboard rank 21.

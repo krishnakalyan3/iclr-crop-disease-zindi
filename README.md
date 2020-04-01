@@ -3,8 +3,10 @@
 Identify wheat rust in images from Ethiopia and Tanzania, and win a trip to present your work at ICLR 2020 in Addis Ababa. The competition page can be found (here)[https://zindi.africa/competitions/iclr-workshop-challenge-1-cgiar-computer-vision-for-crop-disease].
 
 My Solution
-
-
+- 5 fold cross validation
+- Mixup
+- EfficientNet Model trained on resized images 524x524 
+- One Cycle Policy and Differential Learning rate using learning rate finder
 
 Private Leaderboard rank 21.
 

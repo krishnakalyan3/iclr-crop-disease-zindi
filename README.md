@@ -13,11 +13,12 @@ My main misktakes
 - Overfit to the leaderboard
 - Not having a proper CV stratergy
 
+```
 Private Leaderboard rank 21.
-
 Ideas should have tested
 - Normalization Code (mean/std)
 - TTA
 - Gradient Clipping
 - Remove confusing Images
 - Builind a Widget to explore / remove data from the model
+```

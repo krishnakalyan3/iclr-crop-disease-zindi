@@ -19,6 +19,7 @@ Ideas should have tested
 - Normalization Code (mean/std)
 - TTA
 - Gradient Clipping
-- Remove confusing Images
+- Remove confusing Images 
 - Builind a Widget to explore / remove data from the model
+- Remove images (hash/phash)
 ```

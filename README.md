@@ -14,7 +14,7 @@ My main misktakes
 - Bad CV stratergy
 
 ```
-Private Leaderboard rank 21.
+Private Leaderboard rank 19
 Ideas should have tested
 - Normalization Code (mean/std)
 - TTA

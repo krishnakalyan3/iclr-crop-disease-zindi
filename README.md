@@ -23,3 +23,5 @@ Ideas should have tested
 - Builind a Widget to explore / remove data from the model
 - Remove images (hash/phash)
 ```
+
+[Results](https://www.cv4gc.org/cv4a2020/#latest)
